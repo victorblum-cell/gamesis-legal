@@ -1,0 +1,144 @@
+Terms of Service
+Mine Rush – Gamesis Studios GbR
+Effective date: 2026-05-31 | Last updated: 2026-05-31
+
+1. Legal Notice (Impressum)
+
+This application is operated by:
+Gamesis Studios GbR
+Represented by: Claudia Blum
+Kribbenstraße 33
+40549 Düsseldorf
+Germany
+E-Mail: gamesis.studios@gmail.com
+USt-IdNr.: [wird ergänzt sobald vorhanden]
+
+
+2. Acceptance of Terms
+
+By downloading, installing, or using the Mine Rush application (the "Application"), you agree to
+be bound by these Terms of Service. If you do not agree, do not use the Application.
+
+These Terms of Service apply to all users of the Application worldwide.
+
+
+3. License to Use
+
+Gamesis Studios GbR grants you a limited, non-exclusive, non-transferable, revocable license to
+use the Application for personal, non-commercial purposes.
+
+You may not:
+- Copy, modify, or distribute the Application or any part of it
+- Attempt to extract the source code of the Application
+- Translate the Application into other languages or create derivative versions
+- Use the Application for any commercial purpose without prior written consent
+- Reverse engineer or decompile the Application
+
+All trademarks, copyrights, database rights, and other intellectual property rights related to the
+Application remain the property of Gamesis Studios GbR.
+
+
+4. Advertisements
+
+The Application is free to use and is supported by advertisements provided by Google AdMob.
+By using the Application, you agree to the display of advertisements. EU/EEA users will be
+asked for consent before personalized ads are shown, in accordance with GDPR and the
+IAB Transparency & Consent Framework (TCF 2.2).
+
+You can manage your advertising preferences at any time within the app settings.
+
+
+5. User Conduct
+
+You agree not to use the Application in any way that:
+- Violates any applicable local, national, or international law or regulation
+- Is fraudulent, misleading, or deceptive
+- Attempts to manipulate or cheat game scores or leaderboards
+- Interferes with or disrupts the Application or its servers
+
+
+6. Disclaimer of Warranties
+
+The Application is provided "AS IS" and "AS AVAILABLE" without warranties of any kind,
+either express or implied, including but not limited to:
+- Fitness for a particular purpose
+- Uninterrupted or error-free operation
+- Accuracy or reliability of any content
+
+The Service Provider does not guarantee that the Application will be compatible with your
+device or operating system.
+
+
+7. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Gamesis Studios GbR shall not be liable
+for any indirect, incidental, special, consequential, or punitive damages arising from:
+- Your use of or inability to use the Application
+- Any errors, bugs, or interruptions in the Application
+- Loss of data or device damage resulting from use of the Application
+
+The Service Provider is not responsible for charges incurred through mobile data usage
+while using the Application, including roaming charges.
+
+
+8. Internet Connection
+
+Some features of the Application require an active internet connection (Wi-Fi or mobile data).
+The Service Provider is not responsible if the Application does not function at full capacity
+due to lack of internet access.
+
+
+9. Device Requirements
+
+You are responsible for ensuring your device meets the minimum requirements to run the
+Application and remains charged during use. The Service Provider cannot be held responsible
+if your device runs out of battery while using the Application.
+
+
+10. Updates and Changes to the Application
+
+The Service Provider reserves the right to:
+- Update, modify, or discontinue the Application at any time without notice
+- Change these Terms of Service at any time
+
+If we make material changes to these Terms, we will update the effective date at the top of
+this page. Continued use of the Application after changes have been published constitutes
+your acceptance of the updated Terms.
+
+The Application may require updates to continue functioning correctly. You agree to install
+updates when offered. The Service Provider does not guarantee long-term compatibility with
+all operating system versions.
+
+
+11. Termination
+
+The Service Provider may terminate or suspend access to the Application at any time,
+without prior notice, for any reason, including if you breach these Terms of Service.
+
+Upon termination:
+- Your license to use the Application ends immediately
+- You must cease all use of the Application and delete it from your device
+
+
+12. Children
+
+The Application is not directed at children under the age of 13. By using the Application,
+you confirm that you are at least 13 years of age. If you are under 13, please do not use
+the Application.
+
+
+13. Governing Law
+
+These Terms of Service are governed by the laws of the Federal Republic of Germany.
+Any disputes arising from these Terms shall be subject to the exclusive jurisdiction of
+the courts of Düsseldorf, Germany.
+
+
+14. Contact
+
+If you have any questions about these Terms of Service, please contact us:
+
+Gamesis Studios GbR
+Claudia Blum (Vertretungsberechtigte)
+Kribbenstraße 33, 40549 Düsseldorf, Germany
+E-Mail: gamesis.studios@gmail.com
